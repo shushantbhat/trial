@@ -41,7 +41,7 @@ def Affine_Transformation (img):
     cv2.imshow('img', dst)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    
+    #abc
 def Cropping (img):
     cropped_img = img[100:300, 100:300]
     cv2.imshow('cropped_out.jpg', cropped_img)
