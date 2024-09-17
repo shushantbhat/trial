@@ -58,6 +58,6 @@ def Shear (img):
     
 rotate(img)
 Translate(img)
-Affine_Transformation (img);
+Affine_Transformation (img)
 Shear(img)
 Cropping (img)
